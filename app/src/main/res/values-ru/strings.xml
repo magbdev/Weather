@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="pressure">давление</string>
+    <string name="humidity">влажность</string>
+    <string name="wind">ветер</string>
+    <string name="insertCity">введите название города</string>
+    <string name="add">добавлять</string>
+</resources>

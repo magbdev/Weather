@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="pressure">Ciśnienie</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="wind">Wiatr</string>
+    <string name="insertCity">Wprowadź nazwę miasta</string>
+    <string name="add">Dodaj</string>
+</resources>
